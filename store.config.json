@@ -1,0 +1,55 @@
+{
+  "configVersion": 0,
+  "apple": {
+    "version": "1.1.51",
+    "copyright": "2023 CrowdPass Inc.",
+    "release": {
+      "automaticRelease": true
+    },
+    "info": {
+      "en-US": {
+        "description": "The CrowdPass App allows you to manage your CrowdPass events, check in attendees, and link NFC wristband devices.",
+        "keywords": [
+          "CrowdPass",
+          "Event Management",
+          "Event Check In",
+          "Crowd Control"
+        ],
+        "marketingUrl": "https://www.crowdpass.co/",
+        "promoText": "The CrowdPass App is the best way to quickly and efficiently manage all your CrowdPass events.",
+        "supportUrl": "https://www.crowdpass.co/support",
+        "title": "CrowdPass.co",
+        "subtitle": "Event Admin & Attendee App",
+        "privacyPolicyUrl": "https://www.crowdpass.co/privacy-policy"
+      }
+    },
+    "categories": ["ENTERTAINMENT", "PRODUCTIVITY"],
+    "advisory": {
+      "alcoholTobaccoOrDrugUseOrReferences": "NONE",
+      "contests": "NONE",
+      "gamblingSimulated": "NONE",
+      "horrorOrFearThemes": "NONE",
+      "matureOrSuggestiveThemes": "NONE",
+      "medicalOrTreatmentInformation": "NONE",
+      "profanityOrCrudeHumor": "NONE",
+      "sexualContentGraphicAndNudity": "NONE",
+      "sexualContentOrNudity": "NONE",
+      "violenceCartoonOrFantasy": "NONE",
+      "violenceRealistic": "NONE",
+      "violenceRealisticProlongedGraphicOrSadistic": "NONE",
+      "gambling": false,
+      "unrestrictedWebAccess": false,
+      "kidsAgeBand": null,
+      "seventeenPlus": false
+    },
+    "review": {
+      "firstName": "Robert",
+      "lastName": "Laverty",
+      "email": "robert@crowdpass.co",
+      "phone": "+1 401 203 3195",
+      "demoUsername": "robert+demo@crowdpass.co",
+      "demoPassword": "Crowdpass123!",
+      "demoRequired": true
+    }
+  }
+}
